@@ -1,0 +1,16 @@
+{
+    "financial_report_2024.pdf": {
+        "Revenue": "500M",
+        "Expenses": "300M",
+        "Profit": "200M",
+        "Loss": "",
+        "Other": []
+    },
+    "quarterly_summary.pdf": {
+        "Revenue": "120M",
+        "Expenses": "80M",
+        "Profit": "40M",
+        "Loss": "",
+        "Other": []
+    }
+}
